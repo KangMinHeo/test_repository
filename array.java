@@ -1,4 +1,5 @@
 public class array {
+	// 자바 배열관련 설정
     public static void main(String[] args) {
         //크기 할당 & 초기화 없이 배열 참조변수만 선언
         int[] arr;
