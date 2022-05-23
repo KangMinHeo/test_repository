@@ -19,4 +19,5 @@ public class array {
         int[] odds = {1,3,5,7,9};
         String[] weeks = {"월","화","수","목","금","토","일"};
     }
+    // 추가 실험 중
 }
